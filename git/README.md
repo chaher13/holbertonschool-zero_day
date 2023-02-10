@@ -1,1 +1,1 @@
-I present how work my git
+I present how work my git and it works
